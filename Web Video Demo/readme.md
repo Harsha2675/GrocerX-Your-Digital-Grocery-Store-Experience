@@ -22,5 +22,5 @@
 <h3 align="center">🏠 GrocerX Home Page</h3>
 
 <p align="center">
-  <img src="GrocerX_HomePage.png" alt="GrocerX Homepage" width="600"/>
+  <img src="HomePage.png" alt="GrocerX Homepage" width="600"/>
 </p>
