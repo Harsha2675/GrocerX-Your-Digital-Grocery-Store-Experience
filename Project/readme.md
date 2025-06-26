@@ -1,7 +1,5 @@
-<h1><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> </h1>
+<h1 align='center'> GrocerX - Your Digital Grocery Store Experience </h1>
 
-<h1 align='center'> Groceasy - Your Digital Grocery Store Experience </h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <h3 align='center'> Backend Setup </h3>
 
@@ -10,7 +8,7 @@ cd client
 npm install
 npm start
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 <h3 align='center'> Frontend Setup </h3>
 
@@ -20,7 +18,7 @@ npm install
 # Create .env file with your configuration like below
 npm start
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 <h3 align='center'> .env File </h3>
 
@@ -39,5 +37,5 @@ JWT_SECRET=your_jwt_secret_key_here_make_it_long_and_random
 # Server Configuration
 PORT=5100
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
