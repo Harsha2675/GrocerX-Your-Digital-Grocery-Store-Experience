@@ -20,7 +20,9 @@
 
 
 
-<h3 align='center'> 🏠 Home Page Preview</h3>
+<h3 align='center'>🏠 GrocerX Home Page</h3>
 
-![Home Page](Home%20Page.png)
+<div align="center">
+  <img src="GrocerX_HomePage.png" alt="GrocerX Home Page" width="600"/>
+</div>
 
