@@ -19,7 +19,6 @@
 </table>
 
 
-
 <h3 align="center">🏠 GrocerX Home Page</h3>
 
 <p align="center">
